@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926131622113",
+    "firebase_url": "https://rb-apps.firebaseio.com",
+    "project_id": "rb-apps",
+    "storage_bucket": "rb-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926131622113:android:c975ab30a34a096d",
+        "android_client_info": {
+          "package_name": "com.ko.kaptureoneadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926131622113-9meb87jq7a1v26nssubhki6pg8tp9f8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw5GFciorEM4kLHI4uXOJhNJDNuAaEujs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926131622113-9meb87jq7a1v26nssubhki6pg8tp9f8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
